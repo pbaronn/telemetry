@@ -1,0 +1,23 @@
+2026-03-24 20:57:37,438 [INFO] Dados gerados e salvos em 'dados_entrada.json' | Seed=42 | Tamanhos=[1000, 5000, 10000, 50000]
+2026-03-24 20:57:37,708 [INFO] [INÍCIO] Algoritmo=Bubble Sort | n=1000
+2026-03-24 20:57:38,089 [INFO] [FIM] Algoritmo=Bubble Sort | n=1000 | tempo=378.33ms | comparações=499290 | trocas=237493
+2026-03-24 20:57:38,114 [INFO] [INÍCIO] Algoritmo=Insertion Sort | n=1000
+2026-03-24 20:57:38,312 [INFO] [FIM] Algoritmo=Insertion Sort | n=1000 | tempo=196.91ms | comparações=238492 | trocas=237493
+2026-03-24 20:57:38,353 [INFO] [INÍCIO] Algoritmo=Merge Sort | n=1000
+2026-03-24 20:57:38,372 [INFO] [FIM] Algoritmo=Merge Sort | n=1000 | tempo=16.27ms | comparações=8704 | trocas=4428
+2026-03-24 20:57:38,414 [INFO] [INÍCIO] Algoritmo=Bubble Sort | n=5000
+2026-03-24 20:57:45,229 [INFO] [FIM] Algoritmo=Bubble Sort | n=5000 | tempo=6803.32ms | comparações=12496759 | trocas=6229094
+2026-03-24 20:57:45,249 [INFO] [INÍCIO] Algoritmo=Insertion Sort | n=5000
+2026-03-24 20:57:48,029 [INFO] [FIM] Algoritmo=Insertion Sort | n=5000 | tempo=2773.29ms | comparações=6234093 | trocas=6229094
+2026-03-24 20:57:48,041 [INFO] [INÍCIO] Algoritmo=Merge Sort | n=5000
+2026-03-24 20:57:48,090 [INFO] [FIM] Algoritmo=Merge Sort | n=5000 | tempo=48.31ms | comparações=55097 | trocas=28124
+2026-03-24 20:57:48,106 [INFO] [INÍCIO] Algoritmo=Bubble Sort | n=10000
+2026-03-24 20:58:04,634 [INFO] [FIM] Algoritmo=Bubble Sort | n=10000 | tempo=16527.15ms | comparações=49967270 | trocas=25254216
+2026-03-24 20:58:04,650 [INFO] [INÍCIO] Algoritmo=Insertion Sort | n=10000
+2026-03-24 20:58:17,999 [INFO] [FIM] Algoritmo=Insertion Sort | n=10000 | tempo=13347.99ms | comparações=25264215 | trocas=25254216
+2026-03-24 20:58:18,024 [INFO] [INÍCIO] Algoritmo=Merge Sort | n=10000
+2026-03-24 20:58:18,129 [INFO] [FIM] Algoritmo=Merge Sort | n=10000 | tempo=104.26ms | comparações=120421 | trocas=61226
+2026-03-24 20:58:18,132 [WARNING] [PULADO] Bubble Sort | n=50000 excede limite de 10000 para O(n²)
+2026-03-24 20:58:18,133 [WARNING] [PULADO] Insertion Sort | n=50000 excede limite de 10000 para O(n²)
+2026-03-24 20:58:18,149 [INFO] [INÍCIO] Algoritmo=Merge Sort | n=50000
+2026-03-24 20:58:18,844 [INFO] [FIM] Algoritmo=Merge Sort | n=50000 | tempo=694.64ms | comparações=718093 | trocas=363040

@@ -1,0 +1,72 @@
+[
+  {
+    "algoritmo": "Bubble Sort",
+    "n": 1000,
+    "tempo_ms": 378.3318,
+    "comparacoes": 499290,
+    "trocas": 237493
+  },
+  {
+    "algoritmo": "Insertion Sort",
+    "n": 1000,
+    "tempo_ms": 196.9088,
+    "comparacoes": 238492,
+    "trocas": 237493
+  },
+  {
+    "algoritmo": "Merge Sort",
+    "n": 1000,
+    "tempo_ms": 16.2695,
+    "comparacoes": 8704,
+    "trocas": 4428
+  },
+  {
+    "algoritmo": "Bubble Sort",
+    "n": 5000,
+    "tempo_ms": 6803.3166,
+    "comparacoes": 12496759,
+    "trocas": 6229094
+  },
+  {
+    "algoritmo": "Insertion Sort",
+    "n": 5000,
+    "tempo_ms": 2773.2875,
+    "comparacoes": 6234093,
+    "trocas": 6229094
+  },
+  {
+    "algoritmo": "Merge Sort",
+    "n": 5000,
+    "tempo_ms": 48.3066,
+    "comparacoes": 55097,
+    "trocas": 28124
+  },
+  {
+    "algoritmo": "Bubble Sort",
+    "n": 10000,
+    "tempo_ms": 16527.1482,
+    "comparacoes": 49967270,
+    "trocas": 25254216
+  },
+  {
+    "algoritmo": "Insertion Sort",
+    "n": 10000,
+    "tempo_ms": 13347.9866,
+    "comparacoes": 25264215,
+    "trocas": 25254216
+  },
+  {
+    "algoritmo": "Merge Sort",
+    "n": 10000,
+    "tempo_ms": 104.2566,
+    "comparacoes": 120421,
+    "trocas": 61226
+  },
+  {
+    "algoritmo": "Merge Sort",
+    "n": 50000,
+    "tempo_ms": 694.6354,
+    "comparacoes": 718093,
+    "trocas": 363040
+  }
+]
