@@ -25,4 +25,4 @@ Este projeto tem como objetivo implementar e comparar algoritmos de ordenação,
 ### Acessar o Jaeger
 Após iniciar o container, acesse o painel do Jaeger no navegador:
 
-    Acesso do jaeger http://localhost:16686
+     http://localhost:16686
